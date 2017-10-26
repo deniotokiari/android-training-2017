@@ -15,6 +15,13 @@ Project requirements:
 5. ImageLoader - no libraries! + File Cache + Memory Cache + Threadings
 6. Flavors
 
+#HW: 26.10.2017 - no deadline (30.10.2017)
+
+1. Material design: https://material.io/guidelines/material-design/introduction.html
+2. https://www.materialpalette.com/
+3. https://developer.android.com/reference/android/view/View.html
+4. Try to make UI like Twitter, Telegram, Vk, Viber (one page. just to try different layouts and views)
+5. Draw9patch, Vectors, Drawable
 
 *********************************************************
 #HW: 23.10.2017 - deadline (01.11.2017 23.59)
